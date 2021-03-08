@@ -1,4 +1,4 @@
-<?php
+< ?php
 $r1 = "Sí"; 
 $r2 = "Claro que sí"; 
 $r3 = "No lo sé"; 
